@@ -1,1 +1,1 @@
-Ссылка на текущий код сайта размещённый в сети интернет https://github.com/AlexanderKorepin/html_hw9/blob/main/index.html
+Ссылка на текущий код сайта размещённый в сети интернет https://ck44772.tw1.ru/
